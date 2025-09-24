@@ -1,4 +1,5 @@
 # 🚀 LINKETINDER
+**João Gabriel Araújo Azevedo de Albuquerque**
 
 ## Sistema de Match Profissional
 
